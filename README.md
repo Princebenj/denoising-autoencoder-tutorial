@@ -7,7 +7,7 @@ Course: Machine Learning
 This repository contains a tutorial and notebook for a machine-learning assignment focused on **denoising autoencoders** and how **noise level** and **bottleneck size** affect reconstruction quality and learned representations on **Fashion-MNIST**.
 
 ## Repository contents
-- `denoising_autoencoder_tutorial.md` - tutorial text for the PDF/web-page submission
+
 - `denoising_autoencoder_tutorial.pdf` - PDF version of the tutorial
 - `denoising_autoencoder_fashion_mnist.ipynb` - full notebook used to generate the figures and results
 - `requirements.txt` - Python dependencies
