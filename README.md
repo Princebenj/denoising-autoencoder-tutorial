@@ -102,10 +102,15 @@ denoising-autoencoder-tutorial/
 │ └── denoising_autoencoder_tutorial.pdf
 │
 ├── figures/
-│ ├── reconstructions.png
-│ ├── loss_curves.png
-│ ├── latent_space.png
-│
+│ ├── reconstruction_comparison.png
+│ ├── validation_loss_curves.png
+│ ├── corruption_examples.png
+│ ├── latent_space_pca.png
+│ ├── sample_images.png
+│ ├── loss_heatmap.png
+
+
+
 ├── requirements.txt
 ├── README.md
 └── LICENSE
