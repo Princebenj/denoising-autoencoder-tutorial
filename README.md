@@ -1,5 +1,9 @@
-# Learning Robust Representations with Denoising Autoencoders
+# Learning Robust Representations with Denoising Autoencoders - ML Tutorial
+Author: Ebenezer Okunola
+Student ID : 24119439
+Course: Machine Learning
 
+# OVERVIEW
 This repository contains a tutorial and notebook for a machine-learning assignment focused on **denoising autoencoders** and how **noise level** and **bottleneck size** affect reconstruction quality and learned representations on **Fashion-MNIST**.
 
 ## Repository contents
@@ -25,7 +29,7 @@ jupyter notebook notebooks/denoising_autoencoder_fashion_mnist.ipynb
 
 4. Run all cells from top to bottom.
 
-The notebook downloads Fashion-MNIST using `tensorflow.keras.datasets.fashion_mnist.load_data()`, trains the baseline autoencoder and the denoising-autoencoder variants, then saves all figures.
+The notebook downloads Fashion-MNIST using `tensorflow.keras.datasets.fashion_mnist.load_data()`, trains the baseline autoencoder and the denoising-autoencoder variants.
 
 ## Reproducibility notes
 - Random seeds are fixed where possible.
@@ -37,7 +41,4 @@ The notebook downloads Fashion-MNIST using `tensorflow.keras.datasets.fashion_mn
 - Avoid relying on colour alone when discussing plots.
 - Prefer high-contrast figure labels and readable font sizes.
 
-## Before submission
-- Replace the placeholder GitHub link in the tutorial with your real repository URL.
-- Run the notebook once to export the final figures you want to embed in the PDF.
-- Commit the notebook, tutorial, README, requirements, and licence to GitHub.
+
