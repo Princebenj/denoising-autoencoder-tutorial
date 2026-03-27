@@ -162,9 +162,16 @@ Important considerations include:
 ---
 
 ## References
-Goodfellow, I. et al. (2016). Deep Learning
-Vincent, P. et al. (2010). Stacked Denoising Autoencoders. JMLR
-Xiao, H. et al. (2017). Fashion-MNIST Dataset. arXiv
+Chollet, F. et al. (2015) Keras. Available at: https://keras.io (Accessed: 27 March 2026)
+Goodfellow, I., Bengio, Y. and Courville, A. (2016) Deep Learning. Cambridge, MA: MIT Press. Available at: https://www.deeplearningbook.org (Accessed: 27 March 2026)
+
+Pedregosa, F. et al. (2011) ‘Scikit-learn: Machine learning in Python’, Journal of Machine Learning Research, 12, pp. 2825–2830. Available at: https://scikit-learn.org (Accessed: 27 March 2026)
+
+Vincent, P., Larochelle, H., Bengio, Y. and Manzagol, P.-A. (2008) ‘Extracting and composing robust features with denoising autoencoders’, Proceedings of the 25th International Conference on Machine Learning (ICML), pp. 1096–1103. Available at: https://dl.acm.org/doi/10.1145/1390156.1390294 (Accessed: 27 March 2026)
+
+Wong, B. (2011) ‘Color blindness’, Nature Methods, 8(6), p. 441. Available at: https://doi.org/10.1038/nmeth.1618 (Accessed: 27 March 2026)
+
+Xiao, H., Rasul, K. and Vollgraf, R. (2017) ‘Fashion-MNIST: a novel image dataset for benchmarking machine learning algorithms’, arXiv:1708.07747. Available at: https://arxiv.org/abs/1708.07747 (Accessed: 27 March 2026)
 
 ---
 ## License
@@ -175,4 +182,5 @@ You are free to use, modify, and distribute this work with proper attribution.
 ## Author
 Ebenezer Okunola
 
+24119439
 
